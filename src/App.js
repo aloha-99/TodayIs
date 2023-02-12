@@ -1,5 +1,4 @@
-import "./App.css";
-import { MockPost } from "./__mocks__/post";
+import { MockPost } from './__mocks__/post';
 
 function App() {
   const Posts = MockPost(5);
